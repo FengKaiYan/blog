@@ -1,6 +1,8 @@
 <template>
   <div id="app">
     <div>高级前端abc</div>
+    <div>高级前端abc</div>
+    <div>高级前端abc</div>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
