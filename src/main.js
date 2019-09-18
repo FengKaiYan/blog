@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 
+// 我也有
 Vue.config.productionTip = false
 
 new Vue({
