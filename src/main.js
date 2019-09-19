@@ -1,9 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-
-// 我也有
-// 木有
-// 木有
+// top 骄傲
 Vue.config.productionTip = false
 
 new Vue({
