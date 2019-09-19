@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div>高级前端99</div>
-    <div>特别饿</div>
+    <div>有点渴</div>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
