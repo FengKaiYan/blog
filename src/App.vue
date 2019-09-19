@@ -2,6 +2,8 @@
   <div id="app">
     <div>高级前端99</div>
     <div>有点渴</div>
+    <div>没有星星的夜里</div>
+
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
